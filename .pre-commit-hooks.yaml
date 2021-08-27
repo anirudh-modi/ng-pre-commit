@@ -3,4 +3,4 @@
     description: Prevent giant files from being committed
     entry: pre-commit-hooks/check-file
     language: script
-    files: '^$'
+    files: '^.*.js$'
