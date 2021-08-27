@@ -1,0 +1,5 @@
+-   id: check-file
+    name: Check file
+    description: Prevent giant files from being committed
+    entry: check-file
+    language: python
