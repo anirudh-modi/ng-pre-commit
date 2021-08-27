@@ -1,0 +1,5 @@
+repos:
+-   repo: https://github.com/anirudh-modi/ng-pre-commit
+    rev: v0.0.1
+    hooks:
+    -   id: check-file
